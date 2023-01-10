@@ -42,7 +42,7 @@
             <uniqueVersion>false</uniqueVersion>
             <id>app1</id>
             <name>app repo</name>
-            <url>https://github.com/iiazzh/appone</url>
+            <url>/home/runner/work/appone/appone/target/</url>
             <layout>default</layout>
         </repository>
     </distributionManagement>
