@@ -10,7 +10,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.0.1</version>
+        <version>2.7.7</version> <!-- keeping app in Spring 5 till Java 17 upgrade -->
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.suhasmh</groupId>
