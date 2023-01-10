@@ -37,7 +37,15 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
+    <distributionManagement>
+        <repository>
+            <uniqueVersion>false</uniqueVersion>
+            <id>app1</id>
+            <name>app repo</name>
+            <url>https://github.com/iiazzh/appone</url>
+            <layout>default</layout>
+        </repository>
+    </distributionManagement>
     <build>
         <plugins>
             <plugin>
